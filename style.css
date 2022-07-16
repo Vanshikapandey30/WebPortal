@@ -190,6 +190,21 @@ form .btn input[type="submit"]{
   cursor: pointer;
   background: linear-gradient(315deg, #0abcf9 0%, #2c69d1 74%);
 }
+.loginbtn{
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  position: relative;
+  background: none;
+  border: none;
+  color: #fff;
+  padding-left: 0;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  background: linear-gradient(315deg, #0abcf9 0%, #2c69d1 74%);
+}
 
 /* resetting browser stuff */
 *     {
